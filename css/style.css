@@ -1,0 +1,31 @@
+ .gray-background{
+   background-color:gray;
+   max-width:1300px;
+   margin:4% auto 4% auto ;   
+    }
+h1, h3{
+  font-family:'Kaushan Script', cursive, 'Mr Dafoe', cursive;
+  
+}
+p{
+  text-align:justify;
+  text-indent:50px;
+}
+.footer1{
+  text-align:center;
+  padding-top:20px;
+  padding-botton:-0px;
+}
+div.content{
+  max-width:1190px;
+  margin:auto;
+}
+.header1{
+  padding-top:50px;
+  padding-botton:-15px;
+  text-align: center;
+}
+.mobile-header1{
+  padding-top:80px;
+  padding-bottom:80px;
+}
